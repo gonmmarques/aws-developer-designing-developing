@@ -1,4 +1,4 @@
-## Code used to complete the AWS Developer: AWS Developer: Designing and Developing
+## Code used to complete the AWS Developer: Designing and Developing
 
 The scope of the course is to know more about AWS. It follows the AWS Developer: Getting Started course. 
 It goes deeper on the usage of the AWS SDK. It was built on AW services like:
